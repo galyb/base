@@ -5,8 +5,7 @@
 
 node_modules
 
-*/.jpg
-*/.png
+
 # Icon must end with two \r
 Icon
 
