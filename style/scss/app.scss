@@ -1,0 +1,30 @@
+/**********
+	COMPASS
+**********/
+@import "compass"; // import compass basics
+@import "compass/reset"; // import compass reset
+
+/********
+	MIXIN
+*********/
+@import "mixin/font-smoothing"; // Pour avoir des typos plus propre
+
+/*********
+	VENDOR
+**********/
+@import "vendor/normalize";// NORMALISATION du css
+
+/*******
+	BASE
+********/
+@import "base/var";// Variables globale
+@import "base/globale";// element globale au site
+
+/*********
+	HEADER
+**********/
+
+
+/*********
+	FOOTER
+**********/
